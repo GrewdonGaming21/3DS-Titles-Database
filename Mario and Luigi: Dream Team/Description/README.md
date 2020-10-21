@@ -1,27 +1,13 @@
-## Name: 
+## Name: Mario & Luigi™: Dream Team
 
-Mario & Luigi™: Dream Team
+## Icon: ![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/blob/main/Mario%20and%20Luigi:%20Dream%20Team/Description/home%20icon.png?raw=true)
 
-## Icon:
+## Title ID: 00040000000D5A00
 
-![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/blob/main/Mario%20and%20Luigi:%20Dream%20Team/Description/home%20icon.png?raw=true)
+## Version: 0 (0.0.0)
 
-## Title ID: 
+## Region: North America
 
-00040000000D5A00
+## Installed Size: 824.27 MB [6592 blocks]
 
-## Version:
-
-0 (0.0.0)
-
-## Region:
-
-North America
-
-## Installed Size: 
-
-824.27 MB [6592 blocks]
-
-## Product Code: 
-
-CTR-N-AYME
+## Product Code: CTR-N-AYME
