@@ -1,3 +1,130 @@
-Welcome to my WIP 3DS Title Database
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>3dsdb</title>
+    <meta name="description" content="3DS Title Database" />
+    <meta name="keywords" content="nintendo, 3ds, 3dsdb, titledb, titles, python, kartik, hax0kartik" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="hax0kartik" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous" type="text/css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css"
+        crossorigin="anonymous" type="text/css">
+    <link rel="stylesheet" href="styles/switch.css" type="text/css">
+    <link rel="stylesheet" href="styles/design.css" type="text/css">
+    <link rel="stylesheet" href="styles/lightmode.css" type="text/css">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.10.19/filtering/type-based/accent-neutralise.js" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/file-size.js" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="scripts.js" type="text/javascript"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="images/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="3dsdb">
+    <meta name="application-name" content="3dsdb">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body onload="loadLastColor()">
+    <div class="container-fluid">
+        <div class="row text-left">
+            <div class="col-sm-12">
+                <h2>FAQ:</h2>
+            </div>
+            <div class="col-sm-10">
+                <ul>
+                    <li><b>Q) </b>How big is 1 3ds block?<br>
+                    <b>A) </b><i>1 3ds block = 128 kilobytes</i></li>
+                    <li><b>Q) </b>What is the use of QR(s)<br>
+                    <b>A) </b><i>The QR thumbnails on this page can be clicked then scanned with a 3DS to lead you directly to the title's eShop page.</i></li>
+                    <li><b>Q) </b>What is the use of TitleID(s)?<br>
+                    <b>A) </b><i>You need the titleid for cases such as when you want to extract a title using GM9.</i></li>
+                    <li><i>A static webpage for devices with no javascript is always available <a href = "https://hax0kartik.github.io/3dsdb/static.html">here</a></i></li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <div class="form-group">
+                    <span class="switch">
+                        <input type="checkbox" class="switch" id="switch-normal" onchange="toggleColorMode()">
+                        <label for="switch-normal">Dark / Light Mode</label>
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-2">
+                <div class="col-sm-12">
+                    <div class="input-group">
+                        <input type="text" id="input" class="form-control inputBox" placeholder="Search..."
+                            aria-label="Search" aria-describedby="searchbox">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary btn-block" type="button">Search</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        <div class="row mt-2">
+            <div class="col-sm-12 table-responsive">
+                <table id="dataTable" class="table table-striped table-bordered table-hover table-dark">
+                    <thead id="tableHeader" class="thead-dark">
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">QR</th>
+                            <th scope="col">TitleID</th>
+                            <th scope="col">Version</th>
+                            <th scope="col">Size</th>
+                            <th scope="col">Product Code</th>
+                            <th scope="col">Region</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script defer type="text/javascript">populateTable(); 
+    oTable = $('#dataTable').DataTable({
+        "lengthMenu": [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
+        columnDefs: [
+            { type: 'file-size', targets: 4 }
+        ]
+    }); 
+    $('#input').keyup(function(){
+      oTable.search(jQuery.fn.DataTable.ext.type.search.string($(this).val())).draw();  
+})</script>
+</body>
+
+</html>
+</html>
 
 Back to [Main Page](https://GrewdonGaming21.github.io/).
