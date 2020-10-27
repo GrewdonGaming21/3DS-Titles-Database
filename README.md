@@ -1,55 +1,55 @@
 # 3DS-TitleID-Database
 
-Download Play
+### Download Play
 
-Kirby: Battle Royale
+### Kirby: Battle Royale
 
-Luigi's Mansion (3DS)
+### Luigi's Mansion (3DS)
 
-Luigi's Mansion: Dark Moon
+### Luigi's Mansion: Dark Moon
 
-Mario Kart 7
+### Mario Kart 7
 
-Mario and Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
+### Mario and Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
 
-Mario and Luigi: Dream Team
+### Mario and Luigi: Dream Team
 
-Miitopia
+### Miitopia
 
-Nintendo: Badge Arcade
+### Nintendo: Badge Arcade
 
-Photos with Mario/Game
+### Photos with Mario/Game
 
-Pokémon: Alpha Sapphire
+### Pokémon: Alpha Sapphire
 
-Pokémon: Bank
+### Pokémon: Bank
 
-Pokémon: Moon
+### Pokémon: Moon
 
-Pokémon: Omega Ruby
+### Pokémon: Omega Ruby
 
-Pokémon: Rumble World/Game
+### Pokémon: Rumble World/Game
 
-Pokémon: Shuffle/Game
+### Pokémon: Shuffle/Game
 
-Pokémon: Ultra Moon
+### Pokémon: Ultra Moon
 
-Pokémon: X
+### Pokémon: X
 
-Save Data: Transfer Tool
+### Save Data: Transfer Tool
 
-Sonic: Generations (3DS)
+### Sonic: Generations (3DS)
 
-Streetpass: Mii Plaza
+### Streetpass: Mii Plaza
 
-Super Mario Maker (3DS)
+### Super Mario Maker (3DS)
 
-Super Mario: 3D Land/Game
+### Super Mario: 3D Land
 
-Super Smash Bros (3DS)
+### Super Smash Bros (3DS)
 
-Swapnote/Game
+### Swapnote
 
-Team Kirby: Clash DELUXE/Game
+### Team Kirby: Clash DELUXE/Game
 
-Tomodachi Life
+### Tomodachi Life
