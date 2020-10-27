@@ -1,5 +1,11 @@
 # 3DS-TitleID-Database
 
+</a>
+	<a href="https://github.com/GrewdonGaming21/3DS-Titles-Database" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/Finished%3F-Not%20Finished-blue" height="20">
+	<br/>
+</a>
+  
 ### Download Play
 
 ### Kirby: Battle Royale
