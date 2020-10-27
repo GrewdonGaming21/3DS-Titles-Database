@@ -1,3 +1,55 @@
 # 3DS-TitleID-Database
 
-### WIP
+Download Play
+
+Kirby: Battle Royale
+
+Luigi's Mansion (3DS)
+
+Luigi's Mansion: Dark Moon
+
+Mario Kart 7
+
+Mario and Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
+
+Mario and Luigi: Dream Team
+
+Miitopia
+
+Nintendo: Badge Arcade
+
+Photos with Mario/Game
+
+Pokémon: Alpha Sapphire
+
+Pokémon: Bank
+
+Pokémon: Moon
+
+Pokémon: Omega Ruby
+
+Pokémon: Rumble World/Game
+
+Pokémon: Shuffle/Game
+
+Pokémon: Ultra Moon
+
+Pokémon: X
+
+Save Data: Transfer Tool
+
+Sonic: Generations (3DS)
+
+Streetpass: Mii Plaza
+
+Super Mario Maker (3DS)
+
+Super Mario: 3D Land/Game
+
+Super Smash Bros (3DS)
+
+Swapnote/Game
+
+Team Kirby: Clash DELUXE/Game
+
+Tomodachi Life
