@@ -18,7 +18,7 @@
 
 ### Nintendo: Badge Arcade
 
-### Photos with Mario/Game
+### Photos with Mario
 
 ### Pokémon: Alpha Sapphire
 
@@ -28,9 +28,9 @@
 
 ### Pokémon: Omega Ruby
 
-### Pokémon: Rumble World/Game
+### Pokémon: Rumble World
 
-### Pokémon: Shuffle/Game
+### Pokémon: Shuffle
 
 ### Pokémon: Ultra Moon
 
@@ -50,6 +50,6 @@
 
 ### Swapnote
 
-### Team Kirby: Clash DELUXE/Game
+### Team Kirby: Clash DELUXE
 
 ### Tomodachi Life
