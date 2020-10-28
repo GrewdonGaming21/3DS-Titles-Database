@@ -1,19 +1,15 @@
-# Name: [Internet Browser](https://g.co/kgs/9uUKL1)
+# Name: Mii Maker
 
-### The Internet Browser is a web browser designed for the Nintendo 3DS family system. It was released via firmware update on June 6, 2011 in North America and June 7, 2011 in Europe, Australia, and Japan. Access to World Wide Web site content can now be filtered as of system update 5.0.0-11. [Wikipedia](https://en.wikipedia.org/wiki/Internet_Browser_(Nintendo_3DS))
-
-### Initial release: [NA](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=NA&stick=H4sIAAAAAAAAAONgVuLQz9U3MLVMN1nEyuTnCADbkAs0EQAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoATAcegQIIxAD): June 6, 2011; [PAL](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=PAL&stick=H4sIAAAAAAAAAONgVuLUz9U3MI43y0lexMoc4OgDAOZoFZQTAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoAzAcegQIIxAF): June 7, 2011; [JP](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=JP&stick=H4sIAAAAAAAAAONgVuLQz9U3MI43TlnEyuQVAADIYF2EEQAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoBTAcegQIIxAH): June 7, 2011
-
-### Programming language: [C++](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=C%2B%2B&stick=H4sIAAAAAAAAAOPgE-LSz9U3SK8wyDAyUuIAsbPSC9O1dDLKrfST83NyUpNLMvPz9Ivz00rKE4tSrQqK8tOLEnNzM_PSFXIS89JLE9NTF7EyO2tr72BlBAD4dKlOTwAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoATAdegQIHxAD)
-
-### Developed by: [Nintendo](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=Nintendo&stick=H4sIAAAAAAAAAOPgE-LSz9U3SK8wyDAyUuIAsU0ty7O1VDLKrfST83NyUpNLMvPz9Ivz00rKE4tSrVJSy1Jz8gtSUxSSKhexcvhl5pWk5qXk72BlBABnULE3TAAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoATAeegQIHhAD), [Access](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=Access+(company)&stick=H4sIAAAAAAAAAOPgE-LSz9U3SK8wyDAyUuIEsS2TzfLKtFQyyq30k_NzclKTSzLz8_SL89NKyhOLUq1SUstSc_ILUlMUkioXsQo4JienFhcraCTn5xYk5lVq7mBlBAAfDldAVQAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoAjAeegQIHhAE), [HAL Laboratory](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=HAL+Laboratory&stick=H4sIAAAAAAAAAOPgE-LSz9U3SK8wyDAyUuIEsY3K8pLitVQyyq30k_NzclKTSzLz8_SL89NKyhOLUq1SUstSc_ILUlMUkioXsfJ5OPoo-CQm5RclluQXVe5gZQQAk4ByllMAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoAzAeegQIHhAF)
+### Mii Maker, previously known as Mii Studio, is an app for the Nintendo 3DS that allows the player to create an avatar, or digital version, of themselves. You can also take a photo of yourself and automatically create a Mii, then later modify it to your liking. ... It also includes new choices for hair and more. [Mii Maker | Nintendo 3DS Wiki | Fandom](https://nintendo3ds.fandom.com/wiki/Mii_Maker#:~:text=Mii%20Maker%2C%20previously%20known%20as,or%20digital%20version%2C%20of%20themselves.&text=You%20can%20also%20take%20a,choices%20for%20hair%20and%20more.)
 
 ### Icon: ![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/blob/main/Mii%20Maker/Description/home%20icon.png?raw=true)
 
-### Title ID: 0004003000009402
+### Title ID: 0004001000021700 Mii Maker
 
 ### Version: ?
 
 ### Region: North America
 
 ### Installed Size: ?
+
+### Product Code: CTR-N-HEDE
