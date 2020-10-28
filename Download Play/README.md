@@ -2,12 +2,12 @@
 
 ## Icon: ![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/blob/main/Download%20Play/Description/home%20icon.jpg?raw=true)
 
-## Title ID:
+## Title ID: 0004001000021100
 
-## Version:
+## Version: ?
 
-## Region: Region Free
+## Region: North America
 
-## Installed Size:
+## Installed Size: ?
 
-## Product Code:
+## Product Code: CTR-N-HDLE
