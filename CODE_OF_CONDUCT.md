@@ -1,5 +1,9 @@
 # Contributor Covenant Code of Conduct
 
+## Anti-Piracy Policy
+
+We do not accept piracy here. Piracy is not a victimless crime.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
