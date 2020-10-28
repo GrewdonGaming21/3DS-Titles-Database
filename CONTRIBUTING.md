@@ -1,1 +1,1 @@
-If you want to contriute, just ask me.
+If you want to contriute, just ask me. Use [GodMode9](https://github.com/d0k3/GodMode9/releases) to extract the `.code` files from the `.3ds`/`.cia`/`.tmd` files from games/system apps and updates. After you extract them, upload it to your `Google Drive`/`MEGA`/`Dropbox` and then send me a link via email with the `Game`/`System App`/`Update` `Name` and `System Code ID` that goes with the file in the email contents. Make sure the email title is `[ 3DS - Titles - Database ]`
