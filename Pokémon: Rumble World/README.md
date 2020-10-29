@@ -1,14 +1,11 @@
-## Name: 
-Pokémon: Rumble World
+# Name: 
+Pokémon: Rumble World (U)
 
-## Title ID: 
-0004000000164600
+### Title ID: 
+0004000000164600 (U)
 
 ## Version: 
 ?
-
-## Region: 
-North America
 
 ## Installed Size: 
 ?
