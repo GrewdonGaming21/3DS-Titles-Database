@@ -1,14 +1,11 @@
 # Name: 
-Luigi's Mansion (3DS)
+Luigi's Mansion 3DS (U)
 
 ### Title ID: 
-00040000001D1900
+00040000001D1900 (U)
 
 ### Version: 
 ?
-
-### Region: 
-North America
 
 ### Installed Size: 
 ?
