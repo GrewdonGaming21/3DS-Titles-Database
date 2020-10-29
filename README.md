@@ -1,3 +1,5 @@
+# 3DS-Titles-Database
+
 Thank you for looking at my database
 
 The `.cia` files included in this repository are system apps. You may try to use them if you would like.
