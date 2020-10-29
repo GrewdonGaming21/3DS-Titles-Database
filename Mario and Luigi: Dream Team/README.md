@@ -1,17 +1,14 @@
 # Name: 
-Mario & Luigi: Dream Team
+Mario & Luigi: Dream Team (U)
 
-### Alt Name: 
-Mario & Luigi: Dream Team Bros
+### Alt Name(s): 
+Mario & Luigi: Dream Team Bros (W), Mario & Luigi: RPG 4 (J)
 
 ### Title ID: 
-00040000000D5A00
+00040000000D5A00 (U)
 
 ### Version: 
 0 (0.0.0)
-
-### Region: 
-North America
 
 ### Installed Size: 
 824.27 MB [6592 blocks]
