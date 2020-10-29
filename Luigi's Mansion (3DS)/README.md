@@ -1,19 +1,19 @@
-## Name: 
+# Name: 
 Luigi's Mansion (3DS)
 
-## Title ID: 
+### Title ID: 
 00040000001D1900
 
-## Version: 
+### Version: 
 ?
 
-## Region: 
+### Region: 
 North America
 
-## Installed Size: 
+### Installed Size: 
 ?
 
-## Product Code: 
+### Product Code: 
 ?
 
 ![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/tree/main/Luigi's%20Mansion%20(3DS)/Description/home%20icon.png?raw=true)
