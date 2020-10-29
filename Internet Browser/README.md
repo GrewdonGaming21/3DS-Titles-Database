@@ -19,13 +19,10 @@ The Internet Browser is a web browser designed for the Nintendo 3DS family syste
 [HAL Laboratory](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=HAL+Laboratory&stick=H4sIAAAAAAAAAOPgE-LSz9U3SK8wyDAyUuIEsY3K8pLitVQyyq30k_NzclKTSzLz8_SL89NKyhOLUq1SUstSc_ILUlMUkioXsfJ5OPoo-CQm5RclluQXVe5gZQQAk4ByllMAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoAzAeegQIHhAF)
 
 ### Title ID: 
-0004003000009402
+0004003000009402 (U)
 
 ### Version: 
 ?
-
-### Region: 
-North America
 
 ### Installed Size: 
 ?
