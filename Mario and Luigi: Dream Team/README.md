@@ -1,8 +1,8 @@
 # Name: 
-Mario & Luigi™: Dream Team
+Mario & Luigi: Dream Team
 
 ### Alt Name: 
-Mario & Luigi™: Dream Team Bros
+Mario & Luigi: Dream Team Bros
 
 ### Title ID: 
 00040000000D5A00
