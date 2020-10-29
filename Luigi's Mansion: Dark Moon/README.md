@@ -1,5 +1,5 @@
 # Name: 
-Luigi's Mansion: Dark Moon
+Luigi's Mansion: Dark Moon (U)
 
 ### Alt Name:
 Luigi's Mansion 2
@@ -9,9 +9,6 @@ Luigi's Mansion 2
 
 ### Version: 
 ?
-
-### Region: 
-North America
 
 ### Installed Size: 
 ?
