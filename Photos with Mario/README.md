@@ -1,19 +1,16 @@
-## Name: 
-Photos With Mario
+# Name: 
+Photos With Mario (U)
 
-## Title ID: 
+### Title ID: 
 ?
 
-## Version: 
+### Version: 
 ?
 
-## Region: 
-North America
-
-## Installed Size: 
+### Installed Size: 
 ?
 
-## Product Code: 
+### Product Code: 
 ?
 
 ![Icon](https://github.com/GrewdonGaming21/3DS-Titles-Database/blob/main/Photos%20With%20Mario/Description/home%20icon.png?raw=true)
