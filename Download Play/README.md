@@ -1,14 +1,11 @@
 # Name: 
-Download Play (3DS)
+Download Play (U)
 
 ### Title ID: 
-0004001000021100
+0004001000021100 (U)
 
-### Version: ?
-
-
-### Region: 
-North America
+### Version: 
+?
 
 ### Installed Size: 
 ?
