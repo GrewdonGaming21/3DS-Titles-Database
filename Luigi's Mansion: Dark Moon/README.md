@@ -4,7 +4,7 @@ Luigi's Mansion: Dark Moon (U)
 ### Alt Name:
 Luigi's Mansion 2
 
-### UID:
+### U ID:
 50010000013131
 
 ### Title ID: 
