@@ -7,11 +7,8 @@ Mario & Luigi: Dream Team Bros (W), Mario & Luigi: RPG 4 (J)
 ### Title ID: 
 00040000000D5A00 (U)
 
-### UID:
+### U ID:
 50010000015193
-
-### Version: 
-0 (0.0.0)
 
 ### Installed Size: 
 824.27 MB [6592 blocks]
