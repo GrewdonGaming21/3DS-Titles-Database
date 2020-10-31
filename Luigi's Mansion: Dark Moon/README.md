@@ -4,6 +4,7 @@
 ### Alt Name:
 Luigi's Mansion 2 (A)(E)
 
+### Wikipedia Entry:
 Developer(s):	[Next Level Games](https://en.wikipedia.org/wiki/Next_Level_Games)
 
 Publisher(s):	[Nintendo](https://en.wikipedia.org/wiki/Nintendo)
