@@ -1,7 +1,7 @@
 # Name: 
 [Internet Browser](https://g.co/kgs/9uUKL1)
 
-The Internet Browser is a web browser designed for the Nintendo 3DS family system. It was released via firmware update on June 6, 2011 in North America and June 7, 2011 in Europe, Australia, and Japan. Access to World Wide Web site content can now be filtered as of system update 5.0.0-11. [Wikipedia](https://en.wikipedia.org/wiki/Internet_Browser_(Nintendo_3DS))
+The Internet Browser is a web browser designed for the Nintendo 3DS family system. It was released via firmware update on June 6, 2011 in North America and June 7, 2011 in Europe, Australia, and Japan. Access to World Wide Web site content can now be filtered as of system update 5.0.0-11. [(Wikipedia)](https://en.wikipedia.org/wiki/Internet_Browser_(Nintendo_3DS))
 
 ### Initial release: 
 [NA](https://www.google.com/search?safe=active&rlz=1CAYPBE_enUS914US915&q=NA&stick=H4sIAAAAAAAAAONgVuLQz9U3MLVMN1nEyuTnCADbkAs0EQAAAA&sa=X&ved=2ahUKEwj6obeRwtfsAhXKFTQIHRWgDM0QmxMoATAcegQIIxAD): June 6, 2011; 
