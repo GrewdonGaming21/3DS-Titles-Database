@@ -8,4 +8,4 @@ The `.cia` files included in this repository are system apps. You may try to use
 
 # Thanks to:
 
-[RedDuckss](https://github.com/RedDuckss) for making [3dsamesicons](https://github.com/RedDuckss/3dsgamesicons) that I was using for the game icons
+[RedDuckss](https://github.com/RedDuckss) for making [3dsamesicons](https://github.com/RedDuckss/3dsgamesicons) that I was using for the game icons (He did not make them for me)
