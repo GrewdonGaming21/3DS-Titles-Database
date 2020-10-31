@@ -27,13 +27,13 @@ Series:	[Luigi](https://en.wikipedia.org/wiki/List_of_Luigi_video_games)
 
 Platform(s):	[Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
-Release	Nintendo 3DS
+Release:	Nintendo 3DS
 
-[JP](https://en.wikipedia.org/wiki/Japan): March 20, 2013
+- [JP](https://en.wikipedia.org/wiki/Japan): March 20, 2013
 
-[NA](https://en.wikipedia.org/wiki/North_America): March 24, 2013
+- [NA](https://en.wikipedia.org/wiki/North_America): March 24, 2013
 
-[EU](https://en.wikipedia.org/wiki/Europe)/[AU](https://en.wikipedia.org/wiki/Australasia): March 28, 2013
+- [EU](https://en.wikipedia.org/wiki/Europe)/[AU](https://en.wikipedia.org/wiki/Australasia): March 28, 2013
 
 Genre(s)	[Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)
 
