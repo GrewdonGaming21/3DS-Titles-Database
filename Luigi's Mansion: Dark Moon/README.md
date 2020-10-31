@@ -1,8 +1,8 @@
 # Name: 
-Luigi's Mansion: Dark Moon (U)
+[Luigi's Mansion: Dark Moon](https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon) (U)
 
 ### Alt Name:
-Luigi's Mansion 2
+Luigi's Mansion 2 (A)(E)
 
 Developer(s):	[Next Level Games](https://en.wikipedia.org/wiki/Next_Level_Games)
 
