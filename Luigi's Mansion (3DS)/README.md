@@ -4,8 +4,6 @@ Luigi's Mansion 3DS (U)
 ### Title ID: 
 00040000001D1900 (U)
 
-### Version: 
-?
 
 ### Installed Size: 
 ?
