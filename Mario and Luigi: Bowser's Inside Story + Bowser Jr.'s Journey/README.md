@@ -5,10 +5,7 @@ Mario and Luigi: Bowser's Inside Story + Bowser Jr.'s Journey (U)
 Mario & Luigi: RPG 3 DX (J)
 
 ### Title ID: 
-?
-
-### Version: 
-?
+0004000E001D1400
 
 ### Installed Size: 
 ?
