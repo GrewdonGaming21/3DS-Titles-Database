@@ -13,5 +13,4 @@ The **`.tik`** files were extracted with [Decrypt9WIP](https://github.com/d0k3/D
 # Thanks to:
 
 - [RedDuckss](https://github.com/RedDuckss) for [3dsamesicons](https://github.com/RedDuckss/3dsgamesicons)
-- [d0k3](https://github.com/d0k3) for [GodMode9](https://github.com/d0k3/GodMode9)
-- [d0k3](https://github.com/d0k3) for [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP)
+- [d0k3](https://github.com/d0k3) for [GodMode9](https://github.com/d0k3/GodMode9) and [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP)
