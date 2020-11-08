@@ -2,8 +2,8 @@
 Kirby: Battle Royale (U)
 
 ### Title ID: 
-00040000001C2000 (U)
-00040000001CAB00 (DEMO)
+- 00040000001C2000 (U)
+- 00040000001CAB00 (DEMO)
 
 ### Installed Size: 
 ?
