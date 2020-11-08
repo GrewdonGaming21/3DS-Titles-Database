@@ -2,10 +2,7 @@
 Mario Kart 7 (U)
 
 ### Title ID: 
-?
-
-### Version: 
-?
+0004000000030800 (U)
 
 ### Installed Size: 
 ?
