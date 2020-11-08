@@ -40,10 +40,10 @@ Genre(s)	[Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)
 Mode(s)	[Single-player](https://en.wikipedia.org/wiki/Single-player_video_game), [multiplayer](https://en.wikipedia.org/wiki/Multiplayer_video_game)
 
 ### Eshop ID:
-50010000013131
+50010000013131 (U)
 
 ### Title ID: 
-0004000000055F00
+0004000000055F00 (U)
 
 ### Installed Size: 
 842.76 MB [6742 blocks]
