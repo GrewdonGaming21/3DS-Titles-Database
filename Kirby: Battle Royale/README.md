@@ -2,10 +2,7 @@
 Kirby: Battle Royale (U)
 
 ### Title ID: 
-?
-
-### Version: 
-?
+00040000001C2000 (U)
 
 ### Installed Size: 
 ?
