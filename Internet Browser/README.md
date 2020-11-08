@@ -21,9 +21,6 @@ The Internet Browser is a web browser designed for the Nintendo 3DS family syste
 ### Title ID: 
 0004003000009402 (U)
 
-### Version: 
-?
-
 ### Installed Size: 
 ?
 
